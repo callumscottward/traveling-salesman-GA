@@ -1,0 +1,13 @@
+First Generation Best:    1,141,967.8562045680 miles
+First Generation Worst:   1,236,779.1340687983 miles
+First Generation Average: 1,201,642.8347730185 miles
+
+Last Generation Best:       854,202.6553567862 miles
+Last Generation Worst:      882,618.0611918505 miles
+Last Generation Average:    866,617.3790565408 miles
+
+All-Time Best:              854,202.6553567862 miles (Generation 100)
+All-Time Worst:           1,236,779.1340687983 miles (Generation 1)
+Best - Worst:               382,576.4787120118 miles
+
+Generational Improvement:     3,384.0955122876 miles (on average)
